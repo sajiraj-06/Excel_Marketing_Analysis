@@ -23,8 +23,7 @@ This end-to-end Data Analytics project simulates a real-world freelance client s
 * *Ad Spend Share by Platform:* Donut chart illustrating budget allocation.
 * *Interactive Slicers:* Dynamic filters for *Platform, **Status, and **Month* connected to all visuals.
 
-## 🖼️ Dashboard Preview
-![Digital Marketing Dashboard](dashboard_screenshot.png)
+
 
 ## 📂 Repository Files
 * marketing_data_1000_rows.csv — Raw messy dataset
